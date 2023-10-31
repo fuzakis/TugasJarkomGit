@@ -1,4 +1,6 @@
 # TugasJarkomGit
+Nama : Fuad Zaki Nurrahman
+NRP: 5322600011
 
 Berikut adalah program HTML untuk website sederhana dari Wordpress
 
